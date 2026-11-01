@@ -1,0 +1,10 @@
+# Goal
+lab1_interfaces/TargetPose target
+---
+# Result
+bool success
+float32 final_distance
+string message
+---
+# Feedback
+float32 distance_remaining
