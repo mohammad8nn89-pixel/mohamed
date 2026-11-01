@@ -5,8 +5,8 @@ Design of Mechatronics Systems – Alexandria National University, Faculty of En
 ## Team
 | Name | ID |
 |------|----|
-| (Student 1) | (ID) |
-| (Student 2) | (ID) |
+| (mohamed alsayed mohamed) | (2204074) |
+| (zed alsayed abdalfadel) | (2204036) |
 | (Student 3) | (ID) |
 
 Tested on **ROS 2 Jazzy** (Ubuntu 24.04).
